@@ -18,3 +18,11 @@ The main objective of this project is to develop an E-Commerce website that allo
 - A customer can view the total price of product present in the cart unpurchased.
 - Admin can view details of customer who have not purchased anything.
 - Admin can view total profit earned from the website.
+
+## Technology Used:
+
+Front-End: HTML,CSS,JavaScript
+Back-End: PHP,MySql
+Software Used:XAMPP
+
+## Sample Screenshots:
