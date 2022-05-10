@@ -26,3 +26,5 @@ The main objective of this project is to develop an E-Commerce website that allo
 - Software Used:XAMPP
 
 ## Sample Screenshots:
+
+![Screenshot1](https://user-images.githubusercontent.com/91780929/167524175-486e472d-23e8-49e5-a93e-da5ff89c3436.jpg)
