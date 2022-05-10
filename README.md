@@ -27,4 +27,8 @@ The main objective of this project is to develop an E-Commerce website that allo
 
 ## Sample Screenshots:
 
-![Screenshot1](https://user-images.githubusercontent.com/91780929/167524175-486e472d-23e8-49e5-a93e-da5ff89c3436.jpg)
+![Screenshot1](https://user-images.githubusercontent.com/91780929/167524458-5434c88b-3533-4e86-9526-ccc2ff0ba2c1.jpg)
+
+![Screenshot2](https://user-images.githubusercontent.com/91780929/167524480-9496417c-00cc-4736-9434-952fe062595e.jpg)
+
+![Screenshot3](https://user-images.githubusercontent.com/91780929/167524530-77b0fd4d-4ed9-423d-8867-80cdee8fafbf.jpg)
