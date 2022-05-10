@@ -21,8 +21,8 @@ The main objective of this project is to develop an E-Commerce website that allo
 
 ## Technology Used:
 
-Front-End: HTML,CSS,JavaScript
-Back-End: PHP,MySql
-Software Used:XAMPP
+- Front-End: HTML,CSS,JavaScript
+- Back-End: PHP,MySql
+- Software Used:XAMPP
 
 ## Sample Screenshots:
